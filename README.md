@@ -1,5 +1,5 @@
 # Random Coding Problems
-Repo consists of programs solving problem statements. Something I do in my get free time. This file holds questions with corresponding file names and time complexity. Would like to hear a feedback from anyone reading this, I doubt if GitHub has a messaging section but ya'll can reach out to me on my [LinkedIn](https://www.linkedin.com/in/asukhey). Cheers :)
+Repo consists of programs solving problem statements. Something I do in my get free time. This file holds questions with corresponding file names and time complexity. Would like to hear a feedback from anyone reading this, I doubt if GitHub has a messaging section but ya'll can reach out to me on [LinkedIn](https://www.linkedin.com/in/asukhey). Cheers :)
 
 Questions asked by Daily coding problems.
 
