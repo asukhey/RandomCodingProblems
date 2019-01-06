@@ -4,7 +4,7 @@ Repo consists of programs solving problem statements. Something I do in my get f
 Questions asked by Daily coding problems.
 
 
-| Problem Statemen | File |Time Complexity | Implementation (MVP)| Also asked by|
+| Problem Statements | File |Time Complexity | Implementation (MVP)| Also asked by|
 |----------|:----------:|----------:|----------:|----------:|
 |1. Given a string of round, curly, and square open and closing brackets, return whether the brackets are balanced (well-formed). For example, given the string "([])[]({})", you should return true. Given the string "([)]" or "((()", you should return false. |BracketBalance.java|O(n)| Stacks & ArrayLists| Facebook|
 |2. Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent repeated successive characters as a single count and character. For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A". Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.|RLE.java| **Encoding**- O(n) **Decoding**- O(mn) |Regular Expression| Amazon |
